@@ -1,1 +1,1 @@
-Blockus Duo game implemented in Java
+Blokus Duo game implemented in Java
